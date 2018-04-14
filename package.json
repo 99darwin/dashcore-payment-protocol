@@ -1,7 +1,7 @@
 {
-  "name": "@dashevo/dashcore-payment-protocol",
+  "name": "divicore-payment-protocol",
   "version": "1.2.1",
-  "description": "Payment Protocol (BIP70 and related) support for dashcore",
+  "description": "Payment Protocol (BIP70 and related) support for divicore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -34,18 +34,18 @@
     }
   ],
   "keywords": [
-    "dash",
-    "bitcore-dash",
-    "dashcore"
+    "divi",
+    "bitcore-divi",
+    "divicore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-payment-protocol.git"
+    "url": "https://github.com/divicoin/divicore-payment-protocol.git"
   },
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "bitcore-lib-dash": "^0.14.0",
+    "divicore-lib": "^0.15.36",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
