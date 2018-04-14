@@ -40,7 +40,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/divicoin/divicore-payment-protocol.git"
+    "url": "https://github.com/99darwin/divicore-payment-protocol.git"
   },
   "browser": "lib/browser.js",
   "dependencies": {
